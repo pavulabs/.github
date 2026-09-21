@@ -1,10 +1,8 @@
 # Code of Conduct
 
-**English** | [简体中文](CODE_OF_CONDUCT.md)
-
 ## Our Pledge
 
-PavuLabs is committed to providing an open, welcoming, safe, and harassment-free collaborative environment for everyone, regardless of age, body characteristics, disability, ethnicity, gender identity and expression, level of experience, education, nationality, personal appearance, race, religion, sexual orientation, or socioeconomic status.
+Pavu Labs is committed to providing an open, welcoming, safe, and harassment-free collaborative environment for everyone, regardless of age, body characteristics, disability, ethnicity, gender identity and expression, level of experience, education, nationality, personal appearance, race, religion, sexual orientation, or socioeconomic status.
 
 ## Expected Behavior
 
@@ -24,6 +22,6 @@ To confidentially report a conduct issue, contact the maintainers through the re
 
 ## Scope
 
-This code applies within project spaces and whenever a participant publicly represents Pavu or PavuLabs.
+This code applies within project spaces and whenever a participant publicly represents Pavu or Pavu Labs.
 
 This code is informed by the [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
