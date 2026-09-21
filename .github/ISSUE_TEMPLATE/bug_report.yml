@@ -1,0 +1,36 @@
+name: Bug report
+description: Report a reproducible problem without sensitive data.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Do not include credentials, private logs, user activity, or vulnerability details.
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      placeholder: Version, build, or commit SHA
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: Platform, OS version, and relevant hardware
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Provide the smallest non-sensitive reproduction.
+    validations:
+      required: true
