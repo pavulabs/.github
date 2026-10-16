@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pavulabs.github.io">
-    <img src="https://pavulabs.github.io/assets/pavu-icon.png" width="112" alt="Pavu Labs logo">
+    <img src="pavu-icon.png" width="112" alt="Pavu Labs logo">
   </a>
 </p>
 
